@@ -1,5 +1,5 @@
 basic:
-    name: Jaskolski-Howell
+    name: 'Cormier PLC'
     environments:
         production: 'https://GOOGLE.com'
         staging: ''
